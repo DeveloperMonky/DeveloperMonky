@@ -11,12 +11,12 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="65%" valign="top" align="left">
+    <td width="45%" valign="top" align="left">
       <p><b>Full stack developer</b></p>
       <p><b>Focusing on building beautiful & business solutions...</b></p>
     </td>
-    <td width="125%" valign="top" align="right">
-      <img alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg" width="120%"/>
+    <td width="55%" valign="top" align="right">
+      <img alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg" width="100%"/>
     </td>
   </tr>
 </table>
@@ -33,8 +33,7 @@
 
 - **Databases :** <img src="https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>, <img src="https://img.shields.io/badge/SQL%20Server%20-%23CC292B.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>, <img src="https://img.shields.io/badge/MariaDB%20-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
 
-- **Hobbies :** **_playing VALORANT, REPO, PUBG📜Reading_, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>** **_, Watching👀, Learning and traveling_**
-
+- **Hobbies :** **_Playing_ <img src="https://img.shields.io/badge/VALORANT%20-%23FF4655.svg?&style=flat&logo=valorant&logoColor=white"/>, _PUBG, Reading 📜, Gaming on_ <img src="https://img.shields.io/badge/PC%20Gamer%20-%231b2838.svg?&style=flat&logo=steam&logoColor=white"/><img src="https://img.shields.io/badge/PlayStation%20-%23003087.svg?&style=flat&logo=playstation&logoColor=white"/>**, **_Learning and Traveling ✈️_**
 <hr/>
 
 <div align="center">
