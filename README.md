@@ -1,8 +1,6 @@
-<h2 align="center">
-  <img alt="Hello" src="https://raw.githubusercontent.com/google/material-design-icons/master/update/symbols/web/psychology/materialsymbolsoutlined/psychology_24px.svg" width="29px"> 
-  Hello, World!
-  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
-</h2>
+<h1 align="center">
+  Hello, World!🌎
+</h1>
 
 <h2 align="center">
     I'm
@@ -11,20 +9,17 @@
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h2>
 
-<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
-
-<p align="left">
-  <samp>
-    <br><br>
-    Full stack developer
-    <br><br>
-     & mobile developer...
-    <br><br>
-    Focusing on building beautiful
-    <br><br> 
-    & business solutions...
-  </samp>
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top" align="left">
+      <p><b>Full stack developer</b></p>
+      <p><b>Focusing on building beautiful & business solutions...</b></p>
+    </td>
+    <td width="125%" valign="top" align="right">
+      <img alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg" width="120%"/>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
@@ -38,7 +33,7 @@
 
 - **Databases :** <img src="https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>, <img src="https://img.shields.io/badge/SQL%20Server%20-%23CC292B.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>, <img src="https://img.shields.io/badge/MariaDB%20-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
 
-- **Hobbies :** **_Manga📜Reading_, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>** **_, Watching👀Anime_**
+- **Hobbies :** **_playing VALORANT, REPO, PUBG📜Reading_, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>** **_, Watching👀, Learning and traveling_**
 
 <hr/>
 
@@ -67,10 +62,10 @@
 </p>
 
 ```javascript
-import { Akshat } from "Awesome";
+import { Turner } from "Awesome";
 
 const languages = ["JavaScript", "Node.js", "PHP", "C#", "VBA", "VB.NET"];
 const enterprise = ["Active Directory", "DNS/DHCP", "Cisco", "MS Office", "Aspel"];
 const databases = ["MySQL", "SQL Server", "MariaDB"];
 
-Akshat.skills.push(...languages, ...enterprise, ...databases);
+Turner.skills.push(...languages, ...enterprise, ...databases);
